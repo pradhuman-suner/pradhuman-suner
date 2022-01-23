@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pradhuman Suner</h1>
-<h3 align="center">A passionate developer from India</h3>
+<img src="header.png" alt="pradhuman-suner" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pradhuman-suner&label=Profile%20views&color=0e75b6&style=flat" alt="pradhuman-suner" /> </p>
 
