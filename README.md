@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pradhuman-suner" alt="pradhuman-suner" /></a> </p>
 
-- 🧑‍💼 Salesforce Developer 
+- I am a 🧑‍💼 Salesforce Developer 
 
 - 👨‍💻 All of my projects are available at [https://pradhuman-suner.github.io/](https://pradhuman-suner.github.io/)
 
@@ -28,7 +28,7 @@
   <a href="Certification_URL_3"><img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Platform-App-Builder.png" alt="App Builder Salesforce Certification" height="80" width="80" /></a>
   <a href="Certification_URL_4"><img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Associate.png" alt="Associate Salesforce Certification" height="80" width="80" /></a>
 </p>
-<hr>
+
 
 
 
