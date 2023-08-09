@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pradhuman-suner" alt="pradhuman-suner" /></a> </p>
 
-- 🌱 I’m currently learning **Game Dev and C#**
+- 🧑‍💼 Salesforce Developer 
 
 - 👨‍💻 All of my projects are available at [https://pradhuman-suner.github.io/](https://pradhuman-suner.github.io/)
 
@@ -33,7 +33,4 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=pradhuman-suner&show_icons=true&locale=en" alt="pradhuman-suner" /></p>
 <hr>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pradhuman-suner&" alt="pradhuman-suner" /></p>
-<hr>
-<p align="center"><img height="400px" width="auto" src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up."></p>
 
